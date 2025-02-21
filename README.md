@@ -1,3 +1,5 @@
+Hawezi Shakira
+2024/DSC/0036/SS
 # JAVASCRIPTFIRSTQUIZ
 1.c
 2.b
