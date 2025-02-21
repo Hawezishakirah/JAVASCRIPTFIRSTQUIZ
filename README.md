@@ -15,4 +15,3 @@ return Hello,name;
 console.log("Hello,name")
 12.Not equal because the variable is undefined.
 13.const cannot be changed while var and let can be renamed.
-
